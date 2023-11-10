@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "913477136017",
+    "project_id": "pujakarmservice",
+    "storage_bucket": "pujakarmservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913477136017:android:c3eefbf976370d11571930",
+        "android_client_info": {
+          "package_name": "com.example.apanpandiji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913477136017-96k353st4l5e80429bu6e1asgrd216n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apanpandiji",
+            "certificate_hash": "4f11786f3d91600841906ea4784fd1f3e7a7afba"
+          }
+        },
+        {
+          "client_id": "913477136017-q40acsnqu7ll6s1m0ok4eo66hb102ktm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPLQzBUX-Gx_NIvcNdGdfyAo3-M7Tgxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913477136017-q40acsnqu7ll6s1m0ok4eo66hb102ktm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
